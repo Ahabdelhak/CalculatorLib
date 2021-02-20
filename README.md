@@ -1,6 +1,7 @@
-
 ## Installation
 
+
+```
 allprojects {
     repositories {
         ...
@@ -14,7 +15,6 @@ allprojects {
 ```
 dependencies {
     ...
-  implementation 'com.github.Ahabdelhak:CalculatorLib:1.0'
-
-  }
+    implementation 'com.github.Ahabdelhak:CalculatorLib:1.0'
+    }
 ```
