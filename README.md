@@ -1,6 +1,6 @@
-## Installation
-# Repo Contains step by step launching first library
+## Repo Contains step by step launching first library
 
+## Installation
 ```
 allprojects {
     repositories {
