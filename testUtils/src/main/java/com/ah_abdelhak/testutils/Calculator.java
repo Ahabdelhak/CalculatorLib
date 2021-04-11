@@ -1,5 +1,8 @@
 package com.ah_abdelhak.testutils;
-
+/*
+* Class refere to simple calculation for 2 integer numbers
+* All to follow step by step launching first library
+* */
 public class Calculator {
 
     public static int Plus(int a, int b){
